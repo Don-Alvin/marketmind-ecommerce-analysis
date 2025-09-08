@@ -18,13 +18,13 @@ An end-to-end data analytics project simulating a real-world pipeline. The goal 
 4.  **Application Layer:** A Streamlit app integrates everything for end-user consumption.
 
 ## Technology Stack
-- **Cloud & Storage:** Google Cloud Platform (GCP), Cloud Storage, Apache Iceberg
-- **Data Warehouse:** Google BigQuery
+- **Cloud & Storage:** Amazon Web Services (AWS)
+- **Data Lake:** Amazon S3, Apache Iceberg Table Format
+- **Data Catalog & Metastore:** AWS Glue Data Catalog
+- **Query Engine:** Amazon Athena
 - **BI Visualization:** Microsoft Power BI
 - **Machine Learning:** Python (Pandas, Scikit-learn, MLxtend)
 - **Deployment & App:** Streamlit
-
-
 
 ## Getting Started
 Instructions for setting up the environment and running the code will be added here upon project completion.
