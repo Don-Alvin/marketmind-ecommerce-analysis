@@ -29,5 +29,7 @@ An end-to-end data analytics project simulating a real-world pipeline. The goal 
 ## Getting Started
 Instructions for setting up the environment and running the code will be added here upon project completion.
 
+Get the full silver_sales.csv on this drive: https://drive.google.com/drive/folders/1FDSk9avnmW0A3X9-zH-wMKqUr9xwsXQL?usp=sharing
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
